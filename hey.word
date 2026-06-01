@@ -1,0 +1,38 @@
+Hi Uttam,
+
+Please find below my work status update for the week ending 29-May-2026:
+
+**Completed Work:**
+
+• Worked on Credit SMS/CSM development and issue resolution.
+
+• Completed database configuration and validation for all 4 Credit channels.
+
+• Deployed UI changes on PRM and backend changes on WAS.
+
+• Debugged and resolved multiple issues related to transaction processing, deployments, logging, and environment configurations.
+
+• Successfully fired transactions via AG for all 4 Credit channels and respective Dimension IDs.
+
+• Verified successful post-deployment processing and results on the PRM UI for all 4 Credit channels.
+
+• Learned and utilized multiple deployment approaches for testing and validation, including Local Deployment, WAS Deployment, .bat execution, WAR deployment, and JAR deployment.
+
+• Successfully compiled, deployed, and manually tested Oracle stored procedures through parameter-based execution and validation.
+
+• Regularly coordinated with Yogesh, Amit Bhatt, Chiranjivi, and Aniket for development updates, issue discussions, and technical clarifications.
+
+• Shared daily EOD updates in the project Teams group for task tracking and visibility.
+
+**Action Items:**
+
+• Report generation for Manual SMS - 4 new Credit channels.
+
+• Batch processing implementation for the same channels.
+
+• SBI UAT testing (subject to environment availability).
+
+• SSD analysis and code changes for the next CSM module (Manual Email for Credit channels).
+
+Regards,
+Rohini Pandey

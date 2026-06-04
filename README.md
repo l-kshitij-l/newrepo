@@ -66,3 +66,17 @@ WHERE CHANNEL_NAME = 'IMPC'
 AND REQUESTED_DATE BETWEEN TO_DATE('2026-05-08','YYYY-MM-DD') AND TO_DATE('2026-06-04','YYYY-MM-DD')
 AND RULE_ID IS NULL;
 COMMIT;
+
+
+
+
+getArMaskedCardSummaryReport (from getSMSMaskedArSummaryReport switch)
+getArCardSummaryReportCount (from getSMSArSummaryReportCount switch)
+Today-only summary path (if you can also test Summary with date range "Today")
+getMaskedCardSummaryReport (from getSMSMaskedSummaryReport switch)
+getCardSummaryReportCount (from getSMSSummaryReportCount switch)
+Detail report (Detail-level radio button instead of Summary)
+getArMaskedCardDetailReport (from getSMSArMaskedDetailReport switch)
+getArCardDetailReportCount (from getSMSArDetailReportCount switch)
+getMaskedCardDetailReport (from getSMSMaskedDetailReport switch)
+getCardDetailReportCount (from getSMSDetailReportCount switch)

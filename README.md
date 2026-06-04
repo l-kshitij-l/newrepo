@@ -84,6 +84,16 @@ getCardDetailReportCount (from getSMSDetailReportCount switch)
 
 
 
+<img width="975" height="898" alt="image" src="https://github.com/user-attachments/assets/3e71eda3-b164-4d0d-8716-53091baee59f" />
+
+
+
+
+
+
+
+
+
 
 
 
